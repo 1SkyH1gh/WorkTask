@@ -2,6 +2,7 @@ import * as React from 'react'
 import {FunctionComponent} from "react";
 import {MiniatureUser} from "./MiniatureUser";
 import './AccountStyle.css'
+
 export interface TaskTransferProps {
 
 }
@@ -16,10 +17,7 @@ export const TaskTransfer:FunctionComponent<TaskTransferProps>=()=>{
                 <input placeholder="Добавить исполнителя" className="inputFIO"/>
             </form>
             <div className="poolDesigner">
-                        <MiniatureUser/>
-                <MiniatureUser/>
-                <MiniatureUser/>
-                <MiniatureUser/>
+
 
             </div>
             <div className="sendbar">

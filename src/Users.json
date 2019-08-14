@@ -1,0 +1,69 @@
+[
+  {
+    "id": 0,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 0,
+      "task": "отделочные работы"
+    }
+  },
+  {
+    "id": 1,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 1,
+      "task": "отделочные работы"
+    }
+
+  },
+  {
+    "id": 2,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 2,
+      "task": "отделочные работы"
+    }
+  },
+  {
+    "id": 3,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 3,
+      "task": "отделочные работы"
+    }
+  },
+  {
+    "id": 4,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 4,
+      "task": "отделочные работы"
+    }
+  },
+  {
+    "id": 5,
+    "login": "thistlemr11",
+    "password": "thistlemr11",
+    "profession": "stolyar",
+    "nickname": "Ilya Tormanov",
+    "tasklist": {
+      "taskID": 5,
+      "task": "отделочные работы"
+    }
+  }
+]

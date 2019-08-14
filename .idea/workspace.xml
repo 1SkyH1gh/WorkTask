@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7424cffc-34e2-4b2c-87b7-2106451a886f" name="Default Changelist" comment="" />
+    <list default="true" id="7424cffc-34e2-4b2c-87b7-2106451a886f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Account/Account.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Account/Account.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Account/MiniatureUser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Account/MiniatureUser.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Account/TaskTransfer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Account/TaskTransfer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContainerAll.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContainerAll.tsx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +105,7 @@
       <workItem from="1565258496762" duration="3216000" />
       <workItem from="1565334896399" duration="5000" />
       <workItem from="1565601309017" duration="17793000" />
+      <workItem from="1565787147148" duration="7529000" />
     </task>
     <servers />
   </component>
